@@ -4,7 +4,7 @@ About Me:
 
 👯 I’m looking to work on Full Stack Projects, Frontend, Backend, Mobile Application (React Native)
 
-Reach me mail: tejasgorde87@gmail.com contact: 9172234691
+Reach me: tejasgorde87@gmail.com
 
 Tech Stack:
 
