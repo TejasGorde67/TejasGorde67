@@ -1,3 +1,3 @@
-#Hi, I'm Tejas 👋
+Hi, I'm Tejas 👋
 I’m Full Stack Developer
 
