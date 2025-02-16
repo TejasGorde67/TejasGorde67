@@ -1,13 +1,16 @@
-About Me:
+#Hi, I'm Tejas 👋
+I’m Full Stack Developer
 
-🌱 I’m Full Stack Developer
+🛠️ Technologies & Tools
+Languages: JavaScript, TypeScript, Python, Java
+Frameworks & Libraries: React.js, Next.js, Express.js, Node.js
+Tools: Docker, GitHub, CI/CD, Postman
+Databases: MongoDB, PostgreSQL, MySQL
 
-👯 I’m looking to work on Full Stack Projects, Frontend, Backend, Mobile Application (React Native)
+📫 Contact Me
+Phone: +91 9172234691
+Email: tejasgorde87@gmail.com
+LinkedIn: 
+Portfolio: 
+Resume: 
 
-Reach me: tejasgorde87@gmail.com
-
-Tech Stack:
-
-CSS3, HTML5, JavaScript, Java, Pyhton, React, TailwindCSS, ReactNative, Express.js, NodeJS, MongoDB, Snowflake, MySql
-
-Add
