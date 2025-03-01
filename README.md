@@ -1,5 +1,4 @@
 # Hi, I'm Tejas 👋
-This is my new Github Account 🤝 
 
 I'm a Full-Stack Developer with expertise in frontend, backend, and mobile application development. I also have interest in **Applied AI**. I'm always eager to learn and collaborate on high-impact projects.
 
