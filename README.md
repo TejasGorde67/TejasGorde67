@@ -14,7 +14,7 @@ I'm a Full-Stack Developer with expertise in frontend, backend, and mobile appli
 - **Email:** tejasgorde87@gmail.com  
 - **Twitter(X):** [Twitter(X)](https://x.com/tejas_87_)  
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/tejas-gorde-63b464256/)  
-- **Portfolio:** [Portfolio]()  
+- **Portfolio:** [Portfolio](https://portfolio-main-navy-rho.vercel.app/)  
 - **Resume:** [Download Resume](#)
 - **Phone:** +91 9172234691 
 
