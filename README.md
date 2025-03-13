@@ -24,3 +24,5 @@ I'm a Full-Stack Developer with expertise in frontend, backend, and mobile appli
 ### Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasGorde67&layout=compact&theme=dark)
+
+## PS :This is my new GitHub account! 🚀 lost access to my old account
