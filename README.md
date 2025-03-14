@@ -9,7 +9,7 @@ I'm a Full-Stack Developer with expertise in frontend, backend, and mobile appli
 - **Tools:** Docker, GitHub, CI/CD, Postman
 - **Databases:** MongoDB, PostgreSQL, MySQL, Supabase
 
-## 📩 Contact 
+## 📩 Contact Me
 
 - **Email:** tejasgorde87@gmail.com  
 - **Twitter(X):** [Twitter(X)](https://x.com/tejas_87_)  
@@ -28,5 +28,8 @@ I'm a Full-Stack Developer with expertise in frontend, backend, and mobile appli
 
 ### 🚀 Open to Work & Exciting Collaborations!
 
+## 🎖️ focusing on quality over quantity.
 
-This is a test for YOLO achievement.
+
+
+
