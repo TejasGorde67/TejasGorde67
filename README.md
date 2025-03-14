@@ -18,7 +18,7 @@ I'm a Full-Stack Developer with expertise in frontend, backend, and mobile appli
 - **Resume:** [Download Resume](https://drive.google.com/file/d/1f9x9P65mbcx5-YyxjTyy1h4n9Xvh_poQ/view?usp=sharing)
 - **Phone:** +91 9172234691 
 
-## 🚀 Open to Work & Exciting Collaborations!
+### 🚀 Open to Work & Exciting Collaborations!
 
 ## 📊 GitHub Stats
 
