@@ -18,6 +18,7 @@ I'm a Full-Stack Developer with expertise in frontend, backend, and mobile appli
 - **Resume:** [Download Resume](https://drive.google.com/file/d/1f9x9P65mbcx5-YyxjTyy1h4n9Xvh_poQ/view?usp=sharing)
 - **Phone:** +91 9172234691 
 
+## 🚀 Open to Work & Exciting Collaborations!
 
 ## 📊 GitHub Stats
 
@@ -25,8 +26,6 @@ I'm a Full-Stack Developer with expertise in frontend, backend, and mobile appli
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasGorde67&layout=compact&theme=dark)
 
-
-## 🚀 Open to Work & Exciting Collaborations!
 
 ## 🎖️ focusing on quality over quantity.
 
