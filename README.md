@@ -9,7 +9,7 @@ I'm a Full-Stack Developer with expertise in frontend, backend, and mobile appli
 - **Tools:** Docker, GitHub, CI/CD, Postman
 - **Databases:** MongoDB, PostgreSQL, MySQL, Supabase
 
-## 📩 Contact Me
+## 📩 Contact 
 
 - **Email:** tejasgorde87@gmail.com  
 - **Twitter(X):** [Twitter(X)](https://x.com/tejas_87_)  
