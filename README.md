@@ -7,7 +7,7 @@ I'm a Full-Stack Developer with expertise in frontend, backend, and mobile appli
 - **Languages:** JavaScript, TypeScript, Python, Java
 - **Frameworks & Libraries:** React.js, Next.js, Express.js, React Native
 - **Tools:** Docker, GitHub, CI/CD, Postman
-- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Databases:** MongoDB, PostgreSQL, MySQL, Supabase
 
 ## 📩 Contact Me
 
