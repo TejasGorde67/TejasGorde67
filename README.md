@@ -29,7 +29,6 @@ I'm a Full-Stack Developer with expertise in frontend, backend, and mobile appli
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasGorde67&layout=compact&theme=dark)
 
 
-## 🎖️ focusing on quality over quantity.
 
 
 
