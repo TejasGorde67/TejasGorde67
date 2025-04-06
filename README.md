@@ -1,5 +1,4 @@
 # Hi, I'm Tejas 👋
-"The go to person"
 
 I'm a Full-Stack Developer with expertise in frontend, backend, and mobile application development. I also have interest in **Applied AI** & Data driven Application. I'm always eager to learn and collaborate on high-impact projects.
 
