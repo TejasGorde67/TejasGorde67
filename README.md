@@ -7,7 +7,7 @@ I'm a Full-Stack Developer with expertise in frontend, backend, and mobile appli
 - **Languages:** JavaScript, TypeScript, Python, Java
 - **Frameworks & Libraries:** React.js, Next.js, Express.js, React Native, Node.js, Tailwind CSS, WebSockets
 - **Tools:** Docker, GitHub, CI/CD, Postman, Docker, AWS
-- **Databases:** MongoDB, PostgreSQL, MySQL, Supabase, Prisma
+- **Databases:** MongoDB, PostgreSQL, MySQL, Supabase, Prisma, Snowflake
 
 ## 📩 Contact Me
 
