@@ -4,7 +4,7 @@ I'm a Full-Stack Developer with expertise in frontend, backend, and mobile appli
 
 ## 🛠 Technologies & Tools
 
-- **Languages:** JavaScript, TypeScript, Python, Java
+- **Languages:** JavaScript, TypeScript, Python, Java, C++
 - **Frameworks & Libraries:** React.js, Next.js, Express.js, React Native, Node.js, Tailwind CSS, WebSockets
 - **Tools:** Docker, GitHub, CI/CD, Postman, Docker, AWS
 - **Databases:** MongoDB, PostgreSQL, MySQL, Supabase, Prisma, Snowflake
@@ -26,6 +26,8 @@ I'm a Full-Stack Developer with expertise in frontend, backend, and mobile appli
 ### Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasGorde67&layout=compact&theme=dark)
+
+
 
 
 
