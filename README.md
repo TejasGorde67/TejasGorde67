@@ -1,6 +1,6 @@
 # Hi, I'm Tejas 👋
 
-I'm a Full-Stack Developer with expertise in frontend, backend, and mobile application development. I also have interest in **Applied AI** & Data driven Application. I'm always eager to learn and collaborate on high-impact projects.
+I'm a Full-Stack Developer with expertise in frontend, backend, and mobile application development. I also have interest in **Applied AI** & Data driven Application. I'm always eager to learn and collaborate on high-impact projects
 
 ## 🛠 Technologies & Tools
 
