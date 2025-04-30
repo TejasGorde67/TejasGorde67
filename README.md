@@ -18,7 +18,7 @@ I'm a Full-Stack Developer with expertise in frontend, backend, and mobile appli
 - **Twitter(x):** [Twitter](https://x.com/tejas_87_)  
 - **Portfolio:** [Portfolio](https://tejasportfolio-main.vercel.app/)  
 - **Resume:** [Download Resume](https://drive.google.com/file/d/1uUWUhbi4iD9PLLkjUSL9MvLzdBIVd_2d/view?usp=sharinghttps://drive.google.com/file/d/1uUWUhbi4iD9PLLkjUSL9MvLzdBIVd_2d/view?usp=sharing)
-- **Phone:** +91 9172234691 
+- **Phone:**  9172234691 
 
 
 ## 📊 GitHub Stats
