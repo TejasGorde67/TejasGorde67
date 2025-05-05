@@ -11,7 +11,7 @@ I'm a Full-Stack Developer with expertise in frontend, backend, and mobile appli
 
 ## 📩 Contact Me
 
-### 🚀 Open to Work & Exciting Collaborations!
+### 🚀 Open to Work & Exciting Collaborations
 
 - **Email:** tejasgorde87@gmail.com  
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/tejas-gorde-63b464256/)  
