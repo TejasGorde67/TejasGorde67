@@ -9,7 +9,7 @@ I'm a Frontend Developer with expertise in React, Next.js & React Native. I'm al
 - **Tools:** Git, GitHub, CI/CD, Postman
 - **Databases:** MongoDB, PostgreSQL, MySQL
 
-## 📩 Contact Me
+## 📩 Contact Me.
 
 ### 🚀 Open to Work & Exciting Collaborations
 
