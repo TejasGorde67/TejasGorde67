@@ -13,12 +13,4 @@ I'm a Frontend Developer with expertise in React, Next.js & React Native. I'm al
 
 ### 🚀 Open to Work & Exciting Collaborations
 
-## 📊 GitHub Stats
-
-
-
-
-
-
-
 
