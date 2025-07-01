@@ -15,10 +15,6 @@ I'm a Frontend Developer with expertise in React, Next.js & React Native. I'm al
 
 ## 📊 GitHub Stats
 
-### Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasGorde67&layout=compact&theme=dark)
-
 
 
 
