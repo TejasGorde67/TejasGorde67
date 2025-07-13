@@ -14,6 +14,6 @@ I'm a Frontend Developer with expertise in React, Next.js & React Native. I'm al
  - **Mail:** tejasgorde87@gmail.com
  - **Mobile no:** 9172234691
 
-### 🚀 Open to Work & Exciting Collaborations
+### 🚀 Open to Work & Exciting Collaborations.
 
 
